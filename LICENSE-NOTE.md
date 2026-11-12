@@ -1,0 +1,1 @@
+No blanket licence is granted for third-party datasets, images, maps, or publications in this repository. Add an explicit licence for original code and content you own, and preserve all third-party licence and attribution terms.
